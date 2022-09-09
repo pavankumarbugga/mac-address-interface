@@ -1,0 +1,5 @@
+# Ignoring Byte-compiled
+__pycache__
+
+# Ignoring credentials file
+creds.py
